@@ -542,15 +542,15 @@
     },
     "chefSoftwareTags":{
       "type":"object",
-      "provider":"IDNotAvailable"
+      "provider":"33194f91-eb5f-4110-827a-e95f640a9e46"
     },
     "splunkTags":{
       "type":"object",
-      "provider":"IDNotAvailable"
+      "provider":"7d69ff10-1a05-4353-b69d-0e87c3382e96"
     },
     "quickstartTags":{
       "type":"object",
-      "name":"cloudera-tableau"
+      "name":"trend-chef-splunk-security"
     } 
   },
   "resources": [
